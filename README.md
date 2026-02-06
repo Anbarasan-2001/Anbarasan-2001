@@ -70,11 +70,6 @@ I am a passionate Python Developer with strong experience in building scalable w
 
 * ML model prediction using joblib
 * User input battery percentage analysis
-
----
-
-## 📊 GitHub Stats
-
 ---
 
 ## 🤝 Connect With Me
